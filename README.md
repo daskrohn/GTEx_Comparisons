@@ -1,5 +1,8 @@
 # GTEx_Comparisons
 Comparing the functional associations of RBD and PD GWAS loci in GTEx v8.  
+  
+All expression data was extracted from the Genotype-Tissue Expression (GTEx) project (version 8) portal: (https://www.gtexportal.org/home/).  
+The top SCARB2 and SNCA/SNCA-AS1 GWAS risk variants for RBD (current project) and PD (Nalls et. al. 2019) were examined. These loci were chosen because out of the 6 GWAS-nominated risk variants for RBD, the SCARB2 and SNCA/SNCA-AS1 were the only ones independent of the top risk loci for PD. 
 
 ## Set up:
 ```R
