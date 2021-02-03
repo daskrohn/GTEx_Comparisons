@@ -1,0 +1,95 @@
+﻿Variant,Gene,Association,Concat,Tissue,Subtissue,Samples,NES,p-value,m-value,Flair,M,GTEx_Flair
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Cortex,205,0.15,1.40E-03,0.998,**,1**,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Substantia nigra,114,0.13,0.06,0.872,,0.87,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Cerebellum,209,0.129,1.60E-03,0.993,**,0.99**,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Frontal cortex,175,0.115,0.01,0.968,*,0.97*,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Hippocampus,165,0.0523,0.07,0.87,,0.87,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Nucleus accumbens,202,0.0512,0.1,0.831,,0.83,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Spinal cord,126,0.0822,0.1,0.839,,0.84,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Cerebellar hemisphere,175,0.104,4.70E-03,0.984,**,0.98**,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Amygdala,129,-0.0586,0.3,0.208,,0.21,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Hypothalamus,170,0.0974,4.60E-03,0.994,**,0.99**,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Putamen,170,0.0881,9.00E-03,0.998,*,1*,*
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Anterior cingulate cortex,147,0.0478,4.00E-01,0.72,,0.72,
+rs7697073,SCARB2,RBD,rs7697073_RBD,Brain,Caudate,194,0.0555,8.00E-02,0.862,,0.86,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Cortex,205,-0.0302,0.6,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Substantia nigra,114,0.254,4.60E-04,0,**,0**,*
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Cerebellum,209,-0.112,0.009,0.848,*,0.85*,*
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Frontal cortex,175,-0.0555,0.3,0.093,,0.09,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Hippocampus,165,0.0521,0.09,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Nucleus accumbens,202,-0.0463,0.1,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Spinal cord,126,0.137,0.02,0,*,0*,*
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Cerebellar hemisphere,175,-0.0795,0.06,0.098,,0.1,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Amygdala,129,0.049,0.4,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Hypothalamus,170,-0.0207,0.6,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Putamen,170,0.0937,0.01,0,*,0*,*
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Anterior cingulate cortex,147,0.0193,0.8,0,,0,
+rs6825004,SCARB2,PD,rs6825004_PD,Brain,Caudate,194,0.0115,0.7,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Heart,Left ventricle,386,0.421,9.80E-16,1,**,1**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Artery,Aorta,387,0.29,2.00E-07,1,**,1**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Heart,Atrial appendage,372,0.262,3.00E-06,1,**,1**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Artery,Tibial,584,0.125,4.70E-09,1,**,1**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Spinal cord,126,0.154,7.00E-02,0.236,,0.24,
+rs3756059,SNCA,RBD,rs3756059_RBD,Espophagus,Mucosa,497,-0.153,1.80E-04,0,**,0**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Adipose,Subcutaneous,581,-0.153,1.20E-06,0,**,0**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Cells,EBV tranfsormed lymphocytes,147,-0.392,8.90E-04,0,**,0**,*
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Cerebellar hemisphere,175,0.0587,0.2,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Hypothalamus,170,0.0617,0.3,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Amygdala,129,0.0376,0.3,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Substantia nigra,114,0.01,0.9,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Nucleus accumbens,202,-0.0394,0.3,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Hippocampus,165,0.00457,0.9,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Frontal cortex,175,0.0452,0.07,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Cortex,205,0.0225,0.3,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Cerebellum,209,0.0542,0.2,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Putamen,170,-0.0254,0.5,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Anterior cingulate cortex,147,0.0311,0.3,0,,0,
+rs3756059,SNCA,RBD,rs3756059_RBD,Brain,Caudate,194,-0.0304,0.3,0,,0,
+rs356182,SNCA,PD,rs356182_PD,Heart,Left ventricle,386,0.177,2.10E-03,0.875,**,0.88**,*
+rs356182,SNCA,PD,rs356182_PD,Artery,Aorta,387,0.0929,0.1,0.566,,0.57,
+rs356182,SNCA,PD,rs356182_PD,Heart,Atrial appendage,372,0.13,0.04,0.666,*,0.67*,*
+rs356182,SNCA,PD,rs356182_PD,Artery,Tibial,584,0.135,3.50E-04,0.979,**,0.98**,*
+rs356182,SNCA,PD,rs356182_PD,Brain,Spinal cord,126,0.204,0.01,0.674,*,0.67*,*
+rs356182,SNCA,PD,rs356182_PD,Espophagus,Mucosa,497,-0.201,1.80E-06,0,**,0**,*
+rs356182,SNCA,PD,rs356182_PD,Adipose,Subcutaneous,581,-0.0426,0.2,0.013,,0.01,
+rs356182,SNCA,PD,rs356182_PD,Cells,EBV tranfsormed lymphocytes,147,-0.006,1.00E+00,0.2,,0.2,
+rs356182,SNCA,PD,rs356182_PD,Brain,Cerebellar hemisphere,175,0.0929,0.02,0.778,*,0.78*,*
+rs356182,SNCA,PD,rs356182_PD,Brain,Hypothalamus,170,0.0834,0.2,0.469,,0.47,
+rs356182,SNCA,PD,rs356182_PD,Brain,Amygdala,129,0.0756,0.05,0.695,,0.7,
+rs356182,SNCA,PD,rs356182_PD,Brain,Substantia nigra,114,0.041,0.5,0.298,,0.3,
+rs356182,SNCA,PD,rs356182_PD,Brain,Nucleus accumbens,202,-0.0142,0.7,0.033,,0.03,
+rs356182,SNCA,PD,rs356182_PD,Brain,Hippocampus,165,-0.0182,0.6,0.032,,0.03,
+rs356182,SNCA,PD,rs356182_PD,Brain,Frontal cortex,175,-0.0134,0.6,0.006,,0.01,
+rs356182,SNCA,PD,rs356182_PD,Brain,Cortex,205,0.0186,0.4,0.038,,0.04,
+rs356182,SNCA,PD,rs356182_PD,Brain,Cerebellum,209,0.0876,0.06,0.632,,0.63,
+rs356182,SNCA,PD,rs356182_PD,Brain,Putamen,170,0.0621,0.07,0.575,,0.58,
+rs356182,SNCA,PD,rs356182_PD,Brain,Anterior cingulate cortex,147,0.024,0.4,0.128,,0.13,
+rs356182,SNCA,PD,rs356182_PD,Brain,Caudate,194,0.014,0.7,0.072,,0.07,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Cortex,205,-0.409,1.90E-05,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Substantia nigra,114,-0.0907,0.3,0.013,,0.01,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Cerebellum,209,-0.736,9.90E-19,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Frontal cortex,175,-0.392,6.30E-05,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Hippocampus,165,-0.165,1.00E-01,0.336,,0.34,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Nucleus accumbens,202,-0.29,4.10E-03,0.98,**,0.98**,*
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Spinal cord,126,-0.538,2.00E-05,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Cerebellar hemisphere,175,-0.51,3.10E-08,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Amygdala,129,-0.0918,4.00E-01,0.079,,0.08,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Nerve,Tibial,532,-0.326,3.10E-09,1,**,1**,*
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Hypothalamus,170,-0.134,2.00E-01,0.115,,0.12,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Putamen,170,NA,NA,NA,,NA,
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Anterior cingulate cortex,147,-0.405,2.60E-04,1,**,1**,**
+rs3756059,SNCA-AS1,RBD,rs3756059_RBD ,Brain,Caudate,194,NA,NA,NA,,NA,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Cortex,205,-0.179,7.00E-02,0.924,,0.92,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Substantia nigra,114,-0.11,2.00E-01,0.691,,0.69,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Cerebellum,209,-0.196,3.00E-02,0.948,*,0.95*,*
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Frontal cortex,175,-0.184,6.00E-02,0.96,,0.96,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Hippocampus,165,-0.337,2.30E-03,0.991,**,0.99**,*
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Nucleus accumbens,202,-0.327,1.20E-03,0.997,**,1**,*
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Spinal cord,126,-0.116,4.00E-01,0.774,,0.77,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Cerebellar hemisphere,175,-0.194,4.00E-02,0.963,*,0.96*,*
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Amygdala,129,-0.134,2.00E-01,0.799,,0.8,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Nerve,Tibial,532,-0.158,7.00E-03,0.975,*,0.98*,*
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Hypothalamus,170,-0.193,6.00E-02,0.957,,0.96,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Putamen,170,NA,NA,NA,,NA,
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Anterior cingulate cortex,147,-0.458,2.50E-05,1,**,1**,**
+rs356182,SNCA-AS1,PD,rs356182_PD ,Brain,Caudate,194,NA,NA,NA,,NA,
